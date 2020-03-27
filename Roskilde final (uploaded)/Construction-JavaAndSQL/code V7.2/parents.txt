@@ -1,0 +1,11 @@
+Stephen             King                1979-3-30          M                   14, Cloverfield Lane          55555555            1                   1                   rasraziel@gmail.com           true
+Alice               Cooper              1980-2-15          F                   15, Cloverfield Lane          66666666            2                   2                   rasraziel@gmail.com           true
+Vanessa             Williams            1990-2-16          F                   16, Cloverfield Lane          77777777            3                   1                   rasraziel@gmail.com           false
+Jack                Black               1982-2-6           M                   18, Cloverfield Lane          99999999            4                   2                   rasraziel@gmail.com           true
+Arthur              Curry               1970-2-2           M                   13, Cloverfield Lane          44444444            5                   4                   rasraziel@gmail.com           true
+Mike                Green               1981-2-2           M                   11, Cloverfield Lane          22222222            6                   0                   rasraziel@gmail.com           false
+John                Watson              1980-1-1           M                   10, Cloverfield Lane          11111111            7                   1                   rasraziel@gmail.com           true
+Jane                Doe                 1983-3-3           F                   12, Cloverfield Lane          33333333            8                   2                   rasraziel@gmail.com           false
+Mike                Myers               1980-2-5           M                   25, Green St                  89898989            9                   0                   mike@gmail.com                false
+John                Snow                1980-5-5           M                   15, Winterfell St             98989898            10                  0                   khaleesi@gmail.com            false
+Yeety               Sconez              1999-5-27          M                   3rd Avenue Corner             21867016            11                  1                   bb@gmail.com                  false
